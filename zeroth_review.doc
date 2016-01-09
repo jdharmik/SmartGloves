@@ -1,1 +1,128 @@
 
+                         
+School of Information Technology and Engineering
+B.Tech (IT) Final Semester Project –WINTER 2015-16
+DATA SHEET
+(Kindly fill in the details and Print)
+1.Project Details : Individual Team members                
+                      
+Team Member(s)
+  REG NO	NAME	MOBILE NUMBER	EMAIL-ID	Doing  Project Inside/outside VIT 	If doing project outside
+  Company name             Location
+12BIT0063	Manish Agarwal	9092804767	manish.agarwal@knolskape.com	Outside VIT	Knolskape Solutions Pvt. Ltd., Bangalore
+12BIT0185	Sourabh Jain	9791161772	sourabh.jain@knolskape.com
+Outside VIT	Knolskape Solutions Pvt. Ltd., Bangalore
+12BIT0034	Jampala Dharmik	9629467794	dharmik.jampala@knolskape.com	Outside VIT	Knolskape Solutions Pvt. Ltd., Bangalore
+                                          
+2.Type of Project                                     :  Capstone
+  (Capstone/SAP )
+
+3.For students doing Internship & SAP only (Attach the Xerox Copy of the offer)
+      (i) Name of the Company / University  : Knolskape Solutions Pvt. Ltd.
+      (ii)     Location                                  : Bangalore
+      (iii) Name of the External Supervisor   : Sameer Agrawal
+4. Project Title: Smart Gloves
+
+5. Name and Signature of the Guide /Internal  Guide    : 
+Separate Format for Project Proposal is in the next page and all the information required are mandatory and should be furnished without fail. Strictly follow the format for report preparation and submit it on or before 12.01.16. Late submission will not be entertained in any regard. Please print and submit.
+
+                                  - Use Separate Sheet for Mandatory and Desirable –
+ 
+                         
+School of Information Technology and Engineering
+B.Tech (IT) Final Semester Project –WINTER 2015-16
+Acceptance Review- Project Proposal
+(07.1.16 -12.01.16)
+
+Team Member(s)
+         REG NO	NAME	MOBILE NUMBER	EMAIL-ID
+12BIT0063	Manish Agarwal	9092804767	manish.agarwal@knolskape.com
+12BIT0185	Sourabh Jain	9791161772	sourabh.jain@knolskape.com
+12BIT0034	Jampala Dharmik	9629467794	dharmik.jampala@knolskape.com
+
+1.1	Background 
+
+Since their existence, humans have been physically and mentally challenged with various impediments that hinder their advancement on all economical, political, and social levels. Statistics around the world show a relatively high rate of people with speaking difficulties like Stuttering, Deaf-mute. Rates extend to an average of 9% of the whole population, whether in the Middle East, Europe, Africa, America, or other continents of the world.
+It would be unjust for such people to be excluded from society just because they lack elementary communication means. They are mentally capable individuals who deserve and are even demanded to play an effective role in society. Society cannot dismiss whatever potential they have, simply because it needs it; for it is known that society advances only with the collective effort of all of its members. To this end, technology is utilized to aid humans in their collective effort to overcome such impediments
+
+
+
+1.2	Problem Statement
+
+Literate and Employed Deaf and Dumb population face the problem in communicating with normal person at work, home etc., It is a result of the physical disability of
+hearing for deaf people and disability of speaking for dumb people,so it yields to lack of communication between normal person and Deaf and Dumb Person. It actually becomes the same problem of two persons which knowstwo different language, no one of them knows any common language so its becomes a problem to talk with each other
+and so they requires a translator physically which may not be always convenient to arrange and this same kind of problem occurs in between the Normal Person and the Deaf person or the Normal Person and the Dumb person
+
+
+
+
+2.1 Proposed System Overview
+
+The aim of the project “SMART GLOVES” is to provide a practical way of translating sign language into speech, offering people with vocal disabilities a means of communication with people incapable of understanding sign language. Firstly, we surveyed the existing communication aid systems and then found a cheap and easy way for interpreting the gestures to help deaf and dumb people communicate with ease. A motion capture system is used for sign language conversion. It captures the signs and dictates on the screen as writing.
+
+2.2 Challenges
+
+We will interpret the 26 alphabets of English language with specific sign and also use this system to convert the gestures to their respective meanings like food, ok, fine and display the meaning. Hardware components which we have used for this purpose are flex sensors, accelerometer, LCD and Arduino (microcontroller).
+
+3.1 Literature Survey & Summary
+
+Communication is the only medium by which we can share our thoughts or convey the message but for a person with disability (deaf and dumb) faces difficulty in communication with normal person. Because of this, a person who lacks in hearing and
+speaking ability is not able to stand in race with normal person. Communication for a person who cannot hear is visual, not auditory. Generally dumb people use sign language for communication but they find difficulty in communicating with others who don’t understand sign language.
+
+
+
+India constitutes 2.4 million of Deaf and Dumb population, which holds the world‘s 20% of the Deaf and Dumb Population. This person lacks the amenities which a normal person should own. The big reason behind this is lack of communication as deaf people are unable to listen and dumb people are unable to speak. Fig. 1 shows a
+survey analysis [1].
+ 
+
+The sign language is an important and only method of communication for deaf-dumb persons. As sign language is a formal language employing a system of hand gesture for
+communication (by the deaf).
+
+
+
+Outcome Matrix:  Describe your plan to demonstrate each of the outcomes below.  
+Outcomes:	Plan for demonstrating outcome:
+a) An ability to apply knowledge of computing and mathematics appropriate to the program’s student outcomes and to the discipline	 The flex sensors provide complex data which will be simplified using mathematical equations and this data is then used to map gestures to alphabets and texts.
+b) An ability to analyze a problem, and identify and define the computing requirements appropriate to its solution	 To build a working prototype of the proposed solution for the problem analyzed.
+c) An ability to design, implement, and evaluate a computer-based system, process, component, or program to meet desired needs	 By using microcontrollers like Arduino, flex sensors and accelerometers.
+d) An ability to function effectively on teams to accomplish a common goal	 By distributing tasks logically among the team members and integrating the built individual components into the final product.
+e) An understanding of professional, ethical, legal, security and social issues and responsibilities	 By ensuring that security, engineering and all legal standards are met.
+f) An ability to communicate effectively with a range of audiences	 Surveying via various social networking websites and posting about the product on forums and blogs.
+g) An ability to analyze the local and global impact of computing on individuals, organizations, and society	By doing a survey of the prototype built for the problem statement.
+h) Recognition of the need for and an ability to engage in continuing professional development	By making the development code open source so as to get contribution from peer development community and adding additional features.
+i) An ability to use current techniques, skills, and tools necessary for computing practice.	By using latest trends and technological advancements such as use of Arduino Uno, highly accurate and sensitive flex sensors etc.
+j) An ability to use and apply current technical concepts and practices in the core information technologies	By building an IoT based solution to the current problem statement.
+k) An ability to identify and analyze user needs and take them into account in the selection, creation, evaluation and administration of computer-based systems	By reading literature surveys done by peer community for similar problems.
+l) An ability to effectively integrate IT-based solutions into the user environment	By creating a simple and intuitive product design.
+m) An understanding of best practices and standards and their application	By building product that conforms to best industry practices and standards.
+n) An ability to assist in the creation of an effective project plan.	By following popular and standard development methodologies.
+
+Realistic Constraints:
+
+Economic:
+•	cost effective system which can give voice to voiceless person with the help of Smart Gloves.
+•	Total estimated cost of product is below Rs. 3500 /-
+
+Health and Safety:
+•	The system works on 5v battery and there won’t be any electric shocks.
+•	Device doesn’t get heated up on continuous use.
+Social and Ethical:
+•	The device is a gloves and which is a commonly used thing by humans when they travel.
+•	LCD Display is one of the way device can communicate with others.
+
+
+Engineering Standards:
+IEEE Standards
+
+
+For Office use Only :
+
+
+Project Proposal is 
+	
+ACCEPTED / REJECTED
+
+Name & Signature of the Reviewer
+
+	
+
